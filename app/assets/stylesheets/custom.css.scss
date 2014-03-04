@@ -111,7 +111,7 @@ footer {
 
 aside {
 	section {
-		padding: 10px, 0;
+		padding: 10px 0;
 		border-top: 1px solid $grayLighter;
 		&:first-child {
 			border: 0;
@@ -131,6 +131,7 @@ aside {
 		}
 	}
 }
+
 
 .gravatar {
 	float: left;
